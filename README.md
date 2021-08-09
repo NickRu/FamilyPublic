@@ -2,6 +2,5 @@
 Proba. Change.
 Change2.
 Cl Cl Cl
-Privet Server Client !!!!!!!
-Privet Server Server !!!!!!!
+Privet Client !!!!!!!
 1234567
